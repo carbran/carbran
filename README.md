@@ -18,10 +18,10 @@ Estou reorganizando meu github para deixa-lo de acordo com meus planos de desenv
 ## Conecte-se comigo
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-carlos-brandao-filho/)
-<!--[![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandao.fernando96@gmail.com)-->
 [![Instagram](https://img.shields.io/badge/Instagram-f30976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brandaofernando96/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981516888)
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carbran/)
+<!--[![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandao.fernando96@gmail.com)-->
 <!--[![Discord](https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/in/carbran/)-->
 <!--[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/brandao_fernando96)-->
 
