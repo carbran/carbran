@@ -9,7 +9,7 @@
 
 Olá, me chamo Fernando, mas pode me chamar de Carbran. Estou me graduando em Ciências da Computação pela PUC GO.
 
-Moro em Goiânia, Goiás, e trabalho na Novo Mundo S.A. como Analista de Desenvolvimento de Sistemas II onde atuo como desenvolvedor Full Stack.
+Moro em Goiânia, Goiás, e trabalho na Novo Mundo S.A. como Analista de Desenvolvimento de Soluções/Sistemas Pleno onde atuo como desenvolvedor Full Stack.
 
 Sou apaixonado por livros e quadrinhos de todos os gêneros, tanto é que estou desenvolvendo um aplicativo para gestão de coleções como tema do meu TCC.
 
